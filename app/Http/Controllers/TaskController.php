@@ -3,8 +3,8 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Models\Task;//追加
-use Illuminate\Support\Facades\Validator;//追加
+use App\Models\Task;
+use Illuminate\Support\Facades\Validator;
 
 class TaskController extends Controller
 {

@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Models\TodoList;//追記
+use App\Models\TodoList;
 
 class TodoListController extends Controller
 {
